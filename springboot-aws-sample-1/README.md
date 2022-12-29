@@ -8,7 +8,7 @@
 - Verify if 1,2 & 3 are all run using below command in cmd prompt of your choice
 1. 'aws ec2 describe-regions' - This command will list all AWS regions where EC2 service is supported
 
-2. I'll be using https://github.com/rkawscertify/springboot-samples/tree/main/springboot-sample-1 for this sample. I have simly copied the project artifacts and replaced springboot-sample-1 with springboot-aws-sample-1
+2. I'll be using https://github.com/rkawscertify/springboot-samples/tree/main/springboot-sample-1 for this sample. I have simply copied the project artifacts and replaced springboot-sample-1 with springboot-aws-sample-1
 
 3. We will create a docker image 
 	- Build the app first  (Run As -> Maven Build)
